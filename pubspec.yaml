@@ -1,0 +1,44 @@
+name: sabbar_challenge
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^0.5.21+12
+  location: ^2.3.5
+  flutter_polyline_points: ^0.1.0
+  flutter_rating: ^0.0.2
+  flutter_local_notifications: ^1.2.2
+  geolocator: '^5.0.0'
+  firebase_database: ^3.0.4
+  provider: ^4.0.4
+  connectivity: ^0.4.2
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.7.5
+  flutter_launcher_name: "^0.0.1"
+flutter_launcher_name:
+  name: "Turbo Delivery"
+flutter_icons:
+  image_path: "assets/images/icon.png" 
+  android: true
+  ios: true
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/profile.png
+    - assets/images/driving_pin.png
+    - assets/images/source_map_marker.png
+    - assets/images/destination_map_marker.png
+    - assets/images/icon.png
+    - assets/images/Sagnik.jpg

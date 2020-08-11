@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "945245113613",
+    "firebase_url": "https://sabbar-callange.firebaseio.com",
+    "project_id": "sabbar-callange",
+    "storage_bucket": "sabbar-callange.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945245113613:android:a312f357169dc3f68d7444",
+        "android_client_info": {
+          "package_name": "com.areegdev.sabbarchallenge.sabbar_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945245113613-soqav9kjpnjftasts9csa72r9sut0ves.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIlHyOwYpbtJVJvaXkSmpWZEKwR8pxqVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945245113613-soqav9kjpnjftasts9csa72r9sut0ves.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
